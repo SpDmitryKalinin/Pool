@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    font-size: 0.8333333333333333vw;
+}
+
+.canvas-pool {
+    display: block;
+    margin: 5rem auto 0;
+}
+
+@import './components/Popup/index.css';
