@@ -1,6 +1,7 @@
 {
   "name": "pool",
   "version": "0.1.0",
+  "homepage": "https://github.com/SpDmitryKalinin.github.io/pool",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

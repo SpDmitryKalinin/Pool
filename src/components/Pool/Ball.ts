@@ -1,6 +1,6 @@
 import { BallItem, CoordsInterface, SpeedInterface } from "../../Interfaces/interfaces";
 import createBall from "../../utils/createBall";
-import { canvasHeight, canvasWidth, green, white } from "../../utils/vars";
+import {green} from "../../utils/vars";
 
 class Ball {
     ball: BallItem;
